@@ -1,2 +1,0 @@
-# STATEFULTIMER
-Created with CodeSandbox
